@@ -27,6 +27,20 @@ Status: Testing and quality improvement
 - Question bank summary
 - Difficulty levels: Basic, Intermediate, Advanced
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/01-main-menu.png)
+
+### Exam Mode
+![Exam Mode](screenshots/02-exam-mode.png)
+
+### Repeat Wrong Answers
+![Repeat Wrong Answers](screenshots/03-repeat-wrong-answers.png)
+
+### Results Summary
+![Results Summary](screenshots/04-results-summary.png)
+
 ## Training Areas
 
 - General definitions
