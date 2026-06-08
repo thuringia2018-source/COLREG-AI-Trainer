@@ -14,6 +14,14 @@ Development version: v1.3.6
 
 Status: Testing and quality improvement
 
+## Project Documentation
+
+- [Project Overview](docs/project-overview.md)
+- [Version History](docs/version-history.md)
+- [Product Plan](docs/product-plan.md)
+- [Roadmap](roadmap/v1-roadmap.md)
+- [Sample Questions](samples/sample-questions.md)
+
 ## Main Features
 
 - Quick Quiz mode
