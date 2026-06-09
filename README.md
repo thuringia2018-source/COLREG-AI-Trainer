@@ -21,6 +21,8 @@ Status: Testing and quality improvement
 - [Product Plan](docs/product-plan.md)
 - [Roadmap](roadmap/v1-roadmap.md)
 - [Sample Questions](samples/sample-questions.md)
+- [Changelog v1.7](docs/changelog-v1.7.md)
+- [Annex Coverage v1.7](docs/annex-coverage-v1.7.md)
 
 ## Main Features
 
