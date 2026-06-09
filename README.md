@@ -25,6 +25,8 @@ Status: Testing and quality improvement
 - [Annex Coverage v1.7](docs/annex-coverage-v1.7.md)
 * [Changelog v1.8](docs/changelog-v1.8.md)
 * [Web-ready Data Structure v1.8](docs/web-ready-data-v1.8.md)
+- [Changelog v1.9](docs/changelog-v1.9.md)
+- [SVG Vessel Illustrations v1.9](docs/svg-illustrations-v1.9.md)
 
 
 ## Main Features
