@@ -23,6 +23,9 @@ Status: Testing and quality improvement
 - [Sample Questions](samples/sample-questions.md)
 - [Changelog v1.7](docs/changelog-v1.7.md)
 - [Annex Coverage v1.7](docs/annex-coverage-v1.7.md)
+* [Changelog v1.8](docs/changelog-v1.8.md)
+* [Web-ready Data Structure v1.8](docs/web-ready-data-v1.8.md)
+
 
 ## Main Features
 
