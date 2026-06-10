@@ -29,6 +29,8 @@ Status: Testing and quality improvement
 - [SVG Vessel Illustrations v1.9](docs/svg-illustrations-v1.9.md)
 - [Changelog v2.1.2](docs/changelog-v2.1.2.md)
 - [Real Image Assets v2.1.2](docs/real-image-assets-v2.1.2.md)
+- [Changelog v2.2.2](docs/changelog-v2.2.2.md)
+- [Visual Trainer Fixes v2.2.2](docs/visual-fixes-v2.2.2.md)
 
 
 ## Main Features
