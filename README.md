@@ -27,6 +27,8 @@ Status: Testing and quality improvement
 * [Web-ready Data Structure v1.8](docs/web-ready-data-v1.8.md)
 - [Changelog v1.9](docs/changelog-v1.9.md)
 - [SVG Vessel Illustrations v1.9](docs/svg-illustrations-v1.9.md)
+- [Changelog v2.1.2](docs/changelog-v2.1.2.md)
+- [Real Image Assets v2.1.2](docs/real-image-assets-v2.1.2.md)
 
 
 ## Main Features
