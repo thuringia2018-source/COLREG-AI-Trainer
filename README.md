@@ -1,18 +1,62 @@
 # COLREG AI Trainer
 
-AI-assisted COLREG training app for cadets, OOW officers, Chief Officers, and maritime professionals.
+AI-assisted COLREG training and exam-preparation system for cadets, OOW officers, Chief Officers, and maritime professionals.
 
-## Overview
+## Current Status
 
-COLREG AI Trainer is a Python-based learning and exam-preparation tool for the International Regulations for Preventing Collisions at Sea.
+**Current stable development version:** v2.7.3 — Expanded Visual Pack
 
-The project is designed to help users study COLREG rules through quizzes, scenarios, oral exam practice, weak-rule tracking, and repeated wrong-answer training.
+**Status:** Active development / visual training quality improvement
 
-## Current Version
+This public repository is used as a professional project presentation and development log. The full working application package and complete visual asset library are kept outside the public repository while the product is still under development.
 
-Development version: v1.3.6
+## Project Overview
 
-Status: Testing and quality improvement
+COLREG AI Trainer is a maritime learning application designed to help users understand the International Regulations for Preventing Collisions at Sea through realistic scenario-based training.
+
+The project focuses on practical recognition of vessel situations, correct COLREG rule application, visual interpretation, and repeated learning from wrong answers.
+
+## Main Training Concept
+
+The application is being developed around a **Candidate Mode** workflow:
+
+1. The candidate sees a realistic maritime illustration.
+2. The candidate must identify the situation, applicable COLREG rule, vessel responsibility, or correct avoiding action.
+3. The application then reveals the rule, correct answer, and explanation.
+4. Future versions will track weak areas and repeat mistakes until the candidate improves.
+
+## Key Features
+
+- COLREG rule-based training
+- Collision avoidance visual scenarios
+- Candidate Mode quiz logic
+- Lights and shapes recognition
+- Distress signal recognition
+- Sound signal training
+- Restricted visibility scenarios
+- Narrow channel and TSS scenarios
+- Wrong-answer review concept
+- Future AI oral examiner concept
+- Web-ready training structure
+
+## Current Visual Training Coverage
+
+The current development version includes an expanded visual pack covering:
+
+- Rule 7 — Risk of Collision
+- Rule 8 — Action to Avoid Collision
+- Rule 9 — Narrow Channels
+- Rule 10 — Traffic Separation Schemes
+- Rule 13 — Overtaking
+- Rule 14 — Head-on Situations
+- Rule 15 — Crossing Situations
+- Rule 16 — Action by Give-way Vessel
+- Rule 17 — Action by Stand-on Vessel
+- Rule 18 — Responsibilities Between Vessels
+- Rule 19 — Conduct of Vessels in Restricted Visibility
+- Lights and shapes
+- Distress signals
+- Special vessel signals and day shapes
 
 ## Project Documentation
 
@@ -23,42 +67,16 @@ Status: Testing and quality improvement
 - [Sample Questions](samples/sample-questions.md)
 - [Changelog v1.7](docs/changelog-v1.7.md)
 - [Annex Coverage v1.7](docs/annex-coverage-v1.7.md)
-* [Changelog v1.8](docs/changelog-v1.8.md)
-* [Web-ready Data Structure v1.8](docs/web-ready-data-v1.8.md)
+- [Changelog v1.8](docs/changelog-v1.8.md)
+- [Web-ready Data Structure v1.8](docs/web-ready-data-v1.8.md)
 - [Changelog v1.9](docs/changelog-v1.9.md)
 - [SVG Vessel Illustrations v1.9](docs/svg-illustrations-v1.9.md)
 - [Changelog v2.1.2](docs/changelog-v2.1.2.md)
 - [Real Image Assets v2.1.2](docs/real-image-assets-v2.1.2.md)
 - [Changelog v2.2.2](docs/changelog-v2.2.2.md)
 - [Visual Trainer Fixes v2.2.2](docs/visual-fixes-v2.2.2.md)
-
-
-## Main Features
-
-- Quick Quiz mode
-- Scenario training
-- Oral exam mode
-- Exam mode
-- Weak rules tracking
-- Repeat wrong answers
-- Study notes
-- Results summary
-- Question bank summary
-- Difficulty levels: Basic, Intermediate, Advanced
-
-## Screenshots
-
-### Main Menu
-![Main Menu](screenshots/01-main-menu.png)
-
-### Exam Mode
-![Exam Mode](screenshots/02-exam-mode.png)
-
-### Repeat Wrong Answers
-![Repeat Wrong Answers](screenshots/03-repeat-wrong-answers.png)
-
-### Results Summary
-![Results Summary](screenshots/04-results-summary.png)
+- [Changelog v2.7.3](docs/changelog-v2.7.3.md)
+- [Roadmap v2.8.0](docs/roadmap-v2.8.0.md)
 
 ## Training Areas
 
@@ -77,21 +95,43 @@ Status: Testing and quality improvement
 - Restricted visibility
 - Lights and shapes
 - Sound signals
-- IMO compliance background
+- Distress signals
+- Visual scenario recognition
+- Exam preparation
+
+## Development Direction
+
+The next major development target is:
+
+**v2.8.0 — Candidate Exam Mode + Wrong Answer Tracer**
+
+Planned improvements:
+
+- Randomized visual exam mode
+- Score by COLREG rule
+- Mistake classification
+- Weak-rule tracking
+- Review mistakes mode
+- Full-screen image viewer
+- Short explanations after each answer
+- Stronger preparation for future AI oral examiner functionality
+
+## Commercial Direction
+
+The long-term goal is to develop COLREG AI Trainer into a professional maritime learning product for:
+
+- Deck cadets
+- OOW candidates
+- Chief Officer candidates
+- Maritime academies
+- Training departments
+- Seafarers preparing for interviews, exams, or onboard assessments
 
 ## Project Purpose
 
 This project is for maritime education, exam preparation, and professional knowledge refresh.
 
 It is not a substitute for official COLREG publications, bridge procedures, company SMS, flag-state requirements, or professional judgement at sea.
-
-## Roadmap
-
-- v1.4: Question bank quality review
-- v1.5: Better progress tracking
-- v1.6: Export study reports
-- v2.0: Web app version
-- v3.0: Commercial learning product
 
 ## Disclaimer
 
